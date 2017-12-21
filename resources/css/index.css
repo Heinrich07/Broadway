@@ -39,3 +39,13 @@ h4 {
   color: white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
+
+.contact {
+color: white;
+background-color: dimgray;
+text-align: left;
+}
+
+.copyright {
+  font-size: 11px;
+}
